@@ -1,4 +1,4 @@
-// Create Resource Group
+// Create Resource Group abcd
 
 resource "azurerm_resource_group" "rg_network" {
 
